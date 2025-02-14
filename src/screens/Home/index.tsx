@@ -21,7 +21,7 @@ export default function Home() {
             onPress={touchScreen}
         >
             <Message 
-                title="Hello" 
+                title="Hello there!" 
                 text={getGreeting()} 
                 currentBgColor={bgColor} 
             />
