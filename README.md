@@ -1,21 +1,18 @@
-Colorized App
+# Colorized App
 
-Colorized App is an application developed with React Native and Expo, designed to manipulate and visualize colors interactively.
+Colorized App is an application developed with **React Native** and **Expo**, designed to manipulate and visualize colors interactively.
 
-🚀 Technologies Used
+## 🚀 Technologies Used
 
-React Native
+- **React Native**
+- **Expo**
+- **TypeScript**
 
-Expo
-
-TypeScript
-
-Styled Components (if applicable)
-
-📦 Installation
+## 📦 Installation
 
 To clone and run the project locally, follow the steps below:
 
+```sh
 # Clone the repository
 git clone https://github.com/NatanaelSouza-dev/colorizedApp.git
 
@@ -27,6 +24,8 @@ npm install  # or yarn install
 
 # Start the project
 npx expo start  # or yarn start
+```
 
 
-Developed by Natanael Souza 🚀
+Developed by **Natanael Souza** 🚀
+
